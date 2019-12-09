@@ -2088,17 +2088,16 @@ input, select, textarea {
 				top: 50%;
 				white-space: nowrap;
 			}
-/* This should remove the view hover*/
+/* This should remove the view hover
 			.image.thumb:hover:after {
 				opacity: 1.0;
-/* remove view hover*/
 			}
 
 			.image.thumb:hover:before {
 				background: url("images/overlay.png"), url("images/overlay.png");
 				opacity: 1.0;
 			}
-
+remove view hover */
 		.image img {
 			border-radius: 0.35em;
 			display: block;
